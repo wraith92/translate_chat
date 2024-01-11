@@ -65,6 +65,18 @@ export default function Home() {
             </div>
             </div>
         </div>
+        <div className='absolute inset-x-0 top-[calc(100%+13em)] sm:top-[calc(100%+30em)] blur-3xl overflow-hidden transform-gp -z-10 ' aria-hidden='true'>
+
+        </div>
+        <div className='relative left-[calc(50%+3em)]  aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-30 sm:left-[calc(50%+36rem)]  sm:w-[72.1875rem]'
+        style={
+          {
+            clipPath: 'polygon(74.1% 44.1%,100% 61.6%,97.5% 26.9%,85.5% 0.1%,80.7% 2%,72.5% 32.5%,60.2% 62.4%,52.4% 68.1% ,47.5% 58.3%, 44.1% 44.1%,27.5% 76.9%,0.1% 64.9%,17.9% 100%,27.6% 76.8%,74.1% 44.1%)'
+          }
+        }
+        >
+
+        </div>
 
 
       </div>
